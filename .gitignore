@@ -2,7 +2,7 @@
 README.md
 .gradle
 build/
-!gradle/wrapper/gradle-wrapper.jar
+!custom-user/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
 
