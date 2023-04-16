@@ -1,8 +1,11 @@
+# What To Expect
+
+This example helps you configure a basic Spring application with GitHub OAuth2.0. The OAuth app will have to be configured in Github and then we connect those credentials to our application. Once authenticated, we redirect to a basic static index.html page.
+
+
 # Getting Started
-This repository is to demonstrate extremely basic authentication using GitHub OAuth2.0.
-The application is a Spring Boot application that uses the Spring Security OAuth2 Client to authenticate users. 
-The application is configured to use GitHub as the OAuth2.0 provider. 
-The application is configured to use the Spring Boot DevTools.
+For a detailed tutorial, please see this medium article [Basic Kotlin/Java + Spring app with GitHub OAuth 2.0](https://medium.com/@neha-sri/basic-kotlin-java-spring-boot-app-with-github-oauth-2-0-e01d6dc0e866)
+
 
 ### Reference Documentation
 For further reference, please consider the following sections:
